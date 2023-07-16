@@ -1,0 +1,291 @@
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\WPFwholesale.exe.config
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\WPFwholesale.exe
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\WPFwholesale.pdb
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.csprojAssemblyReference.cache
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\MainWindow.g.cs
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\App.g.cs
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale_MarkupCompile.cache
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale_MarkupCompile.lref
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\MainWindow.baml
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.g.resources
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.Properties.Resources.resources
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.csproj.GenerateResource.cache
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.exe
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.pdb
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\ControlzEx.dll
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MahApps.Metro.dll
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\ControlzEx.pdb
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\ControlzEx.xml
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MahApps.Metro.pdb
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MahApps.Metro.xml
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\App.baml
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.csproj.CopyComplete
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\DashboardWindow.g.cs
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\DashboardWindow.baml
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\Registration.g.cs
+C:\Users\Ajith\Desktop\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\Registration.baml
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\WPFwholesale.exe.config
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\WPFwholesale.exe
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\WPFwholesale.pdb
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\ControlzEx.dll
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MahApps.Metro.dll
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignColors.dll
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignThemes.MahApps.dll
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\ControlzEx.pdb
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\ControlzEx.xml
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MahApps.Metro.pdb
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MahApps.Metro.xml
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignColors.pdb
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignThemes.MahApps.pdb
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.csprojAssemblyReference.cache
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\DashboardWindow.g.cs
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\MainWindow.g.cs
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\App.g.cs
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale_MarkupCompile.cache
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale_MarkupCompile.lref
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\App.baml
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\DashboardWindow.baml
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\MainWindow.baml
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.g.resources
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.Properties.Resources.resources
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.csproj.GenerateResource.cache
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.csproj.CoreCompileInputs.cache
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.csproj.CopyComplete
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.exe
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.pdb
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\RegWindow.g.cs
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\RegWindow.baml
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale_Content.g.cs
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\Inventorywindow.g.cs
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\Inventorywindow.baml
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\Saleswindow.g.cs
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\Saleswindow.baml
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\Sallarywindow.g.cs
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\Sallarywindow.baml
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\DSPwindow.g.cs
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\DSPwindow.baml
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\Accountwindow.g.cs
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\Accountwindow.baml
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\Helpwindow.g.cs
+D:\aca\SEM4\GUI Programming\Project\WholesaleShop\WPFwholesale\WPFwholesale\obj\Debug\Helpwindow.baml
+D:\WPFwholesale\WPFwholesale\bin\Debug\WPFwholesale.exe.config
+D:\WPFwholesale\WPFwholesale\bin\Debug\WPFwholesale.exe
+D:\WPFwholesale\WPFwholesale\bin\Debug\WPFwholesale.pdb
+D:\WPFwholesale\WPFwholesale\bin\Debug\ControlzEx.dll
+D:\WPFwholesale\WPFwholesale\bin\Debug\MahApps.Metro.dll
+D:\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignColors.dll
+D:\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignThemes.MahApps.dll
+D:\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\WPFwholesale\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\WPFwholesale\WPFwholesale\bin\Debug\ControlzEx.pdb
+D:\WPFwholesale\WPFwholesale\bin\Debug\ControlzEx.xml
+D:\WPFwholesale\WPFwholesale\bin\Debug\MahApps.Metro.pdb
+D:\WPFwholesale\WPFwholesale\bin\Debug\MahApps.Metro.xml
+D:\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignColors.pdb
+D:\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignThemes.MahApps.pdb
+D:\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\WPFwholesale\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\WPFwholesale\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\WPFwholesale\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.csproj.AssemblyReference.cache
+D:\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.csproj.SuggestedBindingRedirects.cache
+D:\WPFwholesale\WPFwholesale\obj\Debug\Accountwindow.g.cs
+D:\WPFwholesale\WPFwholesale\obj\Debug\DashboardWindow.g.cs
+D:\WPFwholesale\WPFwholesale\obj\Debug\DSPwindow.g.cs
+D:\WPFwholesale\WPFwholesale\obj\Debug\Helpwindow.g.cs
+D:\WPFwholesale\WPFwholesale\obj\Debug\Inventorywindow.g.cs
+D:\WPFwholesale\WPFwholesale\obj\Debug\MainWindow.g.cs
+D:\WPFwholesale\WPFwholesale\obj\Debug\RegWindow.g.cs
+D:\WPFwholesale\WPFwholesale\obj\Debug\Saleswindow.g.cs
+D:\WPFwholesale\WPFwholesale\obj\Debug\Sallarywindow.g.cs
+D:\WPFwholesale\WPFwholesale\obj\Debug\App.g.cs
+D:\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale_Content.g.cs
+D:\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale_MarkupCompile.cache
+D:\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale_MarkupCompile.lref
+D:\WPFwholesale\WPFwholesale\obj\Debug\App.baml
+D:\WPFwholesale\WPFwholesale\obj\Debug\Accountwindow.baml
+D:\WPFwholesale\WPFwholesale\obj\Debug\DashboardWindow.baml
+D:\WPFwholesale\WPFwholesale\obj\Debug\DSPwindow.baml
+D:\WPFwholesale\WPFwholesale\obj\Debug\Helpwindow.baml
+D:\WPFwholesale\WPFwholesale\obj\Debug\Inventorywindow.baml
+D:\WPFwholesale\WPFwholesale\obj\Debug\MainWindow.baml
+D:\WPFwholesale\WPFwholesale\obj\Debug\RegWindow.baml
+D:\WPFwholesale\WPFwholesale\obj\Debug\Saleswindow.baml
+D:\WPFwholesale\WPFwholesale\obj\Debug\Sallarywindow.baml
+D:\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.g.resources
+D:\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.Properties.Resources.resources
+D:\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.csproj.GenerateResource.cache
+D:\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.csproj.CoreCompileInputs.cache
+D:\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.csproj.CopyComplete
+D:\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.exe
+D:\WPFwholesale\WPFwholesale\obj\Debug\WPFwholesale.pdb
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\WPFwholesale.exe.config
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\WPFwholesale.exe
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\WPFwholesale.pdb
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\ControlzEx.dll
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\MahApps.Metro.dll
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\ControlzEx.pdb
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\ControlzEx.xml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\MahApps.Metro.pdb
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\MahApps.Metro.xml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\WPFwholesale.csproj.AssemblyReference.cache
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\WPFwholesale.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\Accountwindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\DashboardWindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\DSPwindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\Helpwindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\Inventorywindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\MainWindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\RegWindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\Saleswindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\Sallarywindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\App.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\WPFwholesale_Content.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\WPFwholesale_MarkupCompile.cache
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\WPFwholesale_MarkupCompile.lref
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\App.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\Accountwindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\DashboardWindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\DSPwindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\Helpwindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\Inventorywindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\MainWindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\RegWindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\Saleswindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\Sallarywindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\WPFwholesale.g.resources
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\WPFwholesale.Properties.Resources.resources
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\WPFwholesale.csproj.GenerateResource.cache
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\WPFwholesale.csproj.CoreCompileInputs.cache
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\WPFwholesale.csproj.CopyComplete
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\WPFwholesale.exe
+C:\Users\Ishan Umayangana\OneDrive\Desktop\updated1\WPFwholesale\obj\Debug\WPFwholesale.pdb
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\WPFwholesale.exe.config
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\WPFwholesale.exe
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\WPFwholesale.pdb
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\ControlzEx.dll
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\MahApps.Metro.dll
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\MaterialDesignColors.dll
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\ControlzEx.pdb
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\ControlzEx.xml
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\MahApps.Metro.pdb
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\MahApps.Metro.xml
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\MaterialDesignColors.pdb
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\WPFwholesale.csproj.AssemblyReference.cache
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\WPFwholesale.csproj.SuggestedBindingRedirects.cache
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\Accountwindow.g.cs
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\DashboardWindow.g.cs
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\DSPwindow.g.cs
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\Helpwindow.g.cs
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\Inventorywindow.g.cs
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\MainWindow.g.cs
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\RegWindow.g.cs
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\Saleswindow.g.cs
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\Sallarywindow.g.cs
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\App.g.cs
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\WPFwholesale_Content.g.cs
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\WPFwholesale_MarkupCompile.cache
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\WPFwholesale_MarkupCompile.lref
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\App.baml
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\Accountwindow.baml
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\DashboardWindow.baml
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\DSPwindow.baml
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\Helpwindow.baml
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\Inventorywindow.baml
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\MainWindow.baml
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\RegWindow.baml
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\Saleswindow.baml
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\Sallarywindow.baml
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\WPFwholesale.g.resources
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\WPFwholesale.Properties.Resources.resources
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\WPFwholesale.csproj.GenerateResource.cache
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\WPFwholesale.csproj.CoreCompileInputs.cache
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\WPFwholesale.csproj.CopyComplete
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\WPFwholesale.exe
+C:\Users\VIMANSA SHAMALI\Downloads\updated1\WPFwholesale\obj\Debug\WPFwholesale.pdb
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\WPFwholesale.exe.config
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\WPFwholesale.exe
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\WPFwholesale.pdb
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\ControlzEx.dll
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\MahApps.Metro.dll
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\ControlzEx.pdb
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\ControlzEx.xml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\MahApps.Metro.pdb
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\MahApps.Metro.xml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\WPFwholesale.csproj.AssemblyReference.cache
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\WPFwholesale.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\Accountwindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\DashboardWindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\DSPwindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\Helpwindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\Inventorywindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\MainWindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\RegWindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\Saleswindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\Sallarywindow.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\App.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\WPFwholesale_Content.g.cs
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\WPFwholesale_MarkupCompile.cache
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\WPFwholesale_MarkupCompile.lref
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\App.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\Accountwindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\DashboardWindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\DSPwindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\Helpwindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\Inventorywindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\MainWindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\RegWindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\Saleswindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\Sallarywindow.baml
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\WPFwholesale.g.resources
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\WPFwholesale.Properties.Resources.resources
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\WPFwholesale.csproj.GenerateResource.cache
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\WPFwholesale.csproj.CoreCompileInputs.cache
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\WPFwholesale.csproj.CopyComplete
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\WPFwholesale.exe
+C:\Users\Ishan Umayangana\OneDrive\Desktop\guinew\WPFwholesale\obj\Debug\WPFwholesale.pdb

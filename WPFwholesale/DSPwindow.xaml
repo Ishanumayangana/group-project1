@@ -1,0 +1,18 @@
+﻿<Window x:Class="WPFwholesale.DSPwindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:WPFwholesale"
+        mc:Ignorable="d"
+        Title="DSPwindow" Height="600" Width="900" AllowsTransparency="True"  ResizeMode="NoResize" Topmost="True" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image Source="/Images/image6.jpeg" Height="600" Width="950"/>
+        <Image Source="/Icons/icon11.png" Width="80" Margin="37,38,783,460"/>
+        <Label Content="Delivery Service Provider" FontSize="50" Margin="131,46,131,468" FontWeight="Bold" Foreground="black"/>
+        <Button x:Name="cls_1" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="20" Width="100" Content="Close" BorderBrush="White" Click="cls_1_Click">
+            
+        </Button>
+    </Grid>
+</Window>

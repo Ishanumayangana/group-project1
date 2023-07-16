@@ -1,0 +1,43 @@
+﻿<Window x:Class="WPFwholesale.Saleswindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:WPFwholesale"
+        mc:Ignorable="d"
+        Title="Saleswindow" Height="600" Width="900" AllowsTransparency="True"  ResizeMode="NoResize" Topmost="True" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="None"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="449*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Image Source="images/image16.jpg" Margin="-123,-23,-73,-24" Grid.ColumnSpan="2" Opacity="0.6"/>
+        <Grid>
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10 50 10 0">
+                    <Button Margin="60,80,0,0"  x:Name="today" Width="227" Height="165" Opacity="0.8" BorderBrush="RoyalBlue" Background="LightBlue" Click="today_Click"/>
+                    <Button Margin="60,80,40,0"  x:Name="week"  Width="227" Height="165" Opacity="0.8" Background="LightBlue" BorderBrush="RoyalBlue" Click="week_Click"></Button>
+                </StackPanel>
+                <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Margin="10">
+                    <Button Margin="60,0,0,10" x:Name="month" Width="227" Height="165" Opacity="0.8" Background="LightBlue" BorderBrush="RoyalBlue" Click="month_Click"></Button>
+                    <Button Margin="60,0,40,10" x:Name="year" Width="227" Height="165" Opacity="0.8" Background="LightBlue" BorderBrush="RoyalBlue" Click="year_Click"></Button>
+                </StackPanel>
+            </StackPanel>
+            <Image Source="images/icons8_today_50px.png" Height="60" Width="60" Margin="282,180,556,360"/>
+            <Image Source="images/icons8_plus_1_week_50px_1.png" Height="60" Width="60" RenderTransformOrigin="1.692,-0.525" Margin="576,180,262,360" />
+            <Image Source="images/icons8_plus_1_month_50px.png" Height="60" Width="60" Margin="282,356,556,184" />
+            <Image Source="images/icons8_plus_1_year_50px_1.png" Height="60" Width="60" Margin="576,356,262,184"/>
+            <Label Content="SALES" FontSize="40" Margin="122,52,94,494" FontWeight="Bold" FontFamily="Rockwell"></Label>
+            <Image Source="images/images18.png" Height="70" Width="70" Margin="47,36,781,494"/>
+            <Button x:Name="Home" HorizontalAlignment="Right" Margin="20" VerticalAlignment="Top" Height="40" Width="40" Click="Home_Click" BorderBrush="{x:Null}">
+                <Button.Background>
+                    <ImageBrush ImageSource="icons8_multiply_50px.png"/>
+                </Button.Background>
+            </Button>
+        </Grid>
+    </Grid>
+</Window>
